@@ -12,7 +12,7 @@ client = commands.Bot(command_prefix = '?',intents = discord.Intents.all()) #ini
 
 
 for i in range(len(cogs)):
-  cogs[i].setup(client)
+  cogs[i].setup(client) #invoking setup() function in music.py
  
 
 def Sub(x: float , y: float):
