@@ -1,1 +1,1 @@
-# Music-Math-py-bot
+# Music-Math-Discord-py-bot
